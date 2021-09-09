@@ -48,7 +48,7 @@ class Square {
 ## 생성자
 ---  
 ### 이론 요약  
-  ![클라우드스터딩-자바-생성자-요약](https://i.imgur.com/pMmmkPn.png)
+  ![자바-생성자-요약](https://i.imgur.com/pMmmkPn.png)
 
 #### 생성자
 - 생성자는 객체를 만드는 특별한 메소드다.
